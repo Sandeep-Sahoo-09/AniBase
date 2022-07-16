@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AniBase/static/css/main.aadee840.css",
+    "main.js": "/AniBase/static/js/main.77d3f78a.js",
+    "static/js/787.18a23c19.chunk.js": "/AniBase/static/js/787.18a23c19.chunk.js",
+    "index.html": "/AniBase/index.html",
+    "main.aadee840.css.map": "/AniBase/static/css/main.aadee840.css.map",
+    "main.77d3f78a.js.map": "/AniBase/static/js/main.77d3f78a.js.map",
+    "787.18a23c19.chunk.js.map": "/AniBase/static/js/787.18a23c19.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aadee840.css",
+    "static/js/main.77d3f78a.js"
+  ]
+}
